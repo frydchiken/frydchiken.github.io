@@ -1,0 +1,88 @@
+@font-face{
+    font-family: round;
+    src: url(fonts/rounded_elegance.ttf);
+}
+body{
+    background-color: #777676;
+    background-image: url("images/anime_scenery.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family:"round", sans-serif;
+}
+h1{
+    font-family: "round", sans-serif;
+}
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #474747;
+    border: 1px solid #000000;
+    background-image: url("images/galaxy.jpg");
+}
+#nav li {
+    float: left;
+    border-right: 1px solid #000000;
+}
+#nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#nav li a:hover {
+    color: black;
+    background-image: url("images/galaxyhover.jpg");
+}
+#nav li a:active {
+    color: white;
+}
+
+#roblox {
+    display: block;
+    border: solid black 3px;
+    margin: auto;
+    padding: -10px;
+    text-align: center;
+}
+#songs {
+    display: block;
+    margin-left: 540px;
+    text-align: left;
+}
+#classes {
+    display: block;
+    margin-left: 575px;
+    text-align: left;
+}
+#title {
+    display: block;
+    margin-left: 575px;
+    text-align: center;
+}
+#link {
+    display: block;
+    text-align: center;
+}
+#gif {
+    display: block;
+    border: solid black 3px;
+    margin: auto;
+    text-align: center;
+}
+#paragraph {
+    display: block;
+    text-align: center;
+}
+#hobbies {
+    display: block;
+    margin-left: 595px;
+    text-align: left;
+}
+#header {
+    border-bottom: solid 1px;
+    border-bottom-color: black;
+}
