@@ -44,9 +44,6 @@ h1{
 #roblox {
     display: block;
     border: solid black 2px;
-    margin: auto;
-    padding: -10px;
-    text-align: center;
 }
 #songs {
     display: block;
