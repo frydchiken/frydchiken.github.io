@@ -28,34 +28,36 @@ h1{
 }
 #nav li a {
     display: block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 #nav li a:hover {
-    color: black;
+    color: white;
     background-image: url("images/galaxyhover.jpg");
 }
 #nav li a:active {
-    color: white;
+    color: purple;
 }
 
 #roblox {
     display: block;
-    border: solid black 3px;
+    border: solid black 2px;
     margin: auto;
     padding: -10px;
     text-align: center;
 }
 #songs {
     display: block;
-    margin-left: 540px;
+    margin-left: auto;
+    width: 57%;
     text-align: left;
 }
 #classes {
     display: block;
-    margin-left: 575px;
+    margin-left: auto;
+    width: 57%;
     text-align: left;
 }
 #title {
@@ -69,17 +71,19 @@ h1{
 }
 #gif {
     display: block;
-    border: solid black 3px;
+    border: solid black 2px;
     margin: auto;
     text-align: center;
 }
 #paragraph {
     display: block;
+    margin: auto;
     text-align: center;
 }
 #hobbies {
     display: block;
-    margin-left: 595px;
+    margin-left: auto;
+    width: 52%;
     text-align: left;
 }
 #header {
